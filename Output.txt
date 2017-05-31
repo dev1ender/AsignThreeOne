@@ -1,0 +1,7 @@
+Answer = c
+
+the code will complile fine with both newer and older version of the jdk's but shows error with new version "main method not found...."
+But with older version it will run fine and show  the output 10 
+
+The NoSuchMethod error is shown in privous version of the jdk so I can pridict that the Options are with the older version of java
+hence the answer is option c which match perfectly with the older version of java
